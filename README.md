@@ -1,6 +1,13 @@
 # 📌 TaskFlow - FrontEnd
 
-Interface web responsável por consumir a API TaskFlow e exibir usuários e tarefas.
+
+
+O **TaskFlow** é uma aplicação web simples para gerenciamento de tarefas de usuários.
+O sistema permite acompanhar o andamento das atividades, visualizar quem está responsável por cada tarefa e verificar se já foi concluída ou não.
+
+Este projeto foi desenvolvido com o objetivo de **praticar e desenvolver habilidades técnicas** utilizando uma arquitetura **front-end e back-end separados**, com comunicação via API REST.
+
+
 
 ## 📑 Índice
 
